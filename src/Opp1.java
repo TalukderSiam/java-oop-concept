@@ -4,6 +4,7 @@ public class Opp1 {
 
     public void printdata(){
         System.out.println(name);
+        
         System.out.println(age);
     }
 
