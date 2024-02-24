@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 class ATM {
-    float balance;123
+    float balance;
     int PIN =123;
 
 
